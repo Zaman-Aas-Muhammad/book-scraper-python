@@ -5,8 +5,8 @@ from books.toscrape.com across multiple pages.
 
 ## Features
 - Scrapes Name, Price, Rating
-- Saves data to CSV
-- Covers 12 pages automatically
+- Saves data to Excel (.xlsx) format
+- Covers 31 pages automatically (500+ books)
 
 ## Technologies Used
 - Python
